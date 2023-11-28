@@ -1,8 +1,9 @@
 # Instalasi Centos VM
 
 ### Membuat VM
-buka virtualbox dan buat vm dan masukkan iso ubuntu servernya
+buka virtualbox dan buat vm kemudian masukkan iso Centos
 
+![satu](img/Centos VM/Enam.png)
 
 ### Memilih bahasa
 Pilih English lalu Enter
