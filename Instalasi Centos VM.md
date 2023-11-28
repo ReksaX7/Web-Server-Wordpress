@@ -3,7 +3,7 @@
 ### Membuat VM
 buka virtualbox dan buat vm kemudian masukkan iso Centos
 
-![satu](img/Centos VM/Enam.png)
+![satu](img/Centos/Enam.png)
 
 ### Memilih bahasa
 Pilih English lalu Enter
