@@ -1,33 +1,32 @@
-# Membangun Web Server Wordpress Dengan Centos server
-
-![Web-Server-Wordpress](img/wordpress/1.png)
+# Web Server (Wordpress)
+Final project OS yang dibuat adalah web server berbasis wordpress, dengan menggunakan OS centos 7 sebagai server.
+***
 
 ## Apa itu Wordpress?
 WordPress adalah sebuah aplikasi open-source yang sangat populer digunakan sebagai mesin blog. WordPress dibangun dengan bahasa pemrograman PHP dan database MySQL.
 
-## Bahan-bahan yang perlu disiapkan:
-- Virtualbox
-- Iso Centos 7
-- Jaringan internet
+Contoh dari Wordpress sebagai berikut:
+![img/wordpress/wordpress](https://github.com/ReksaX7/Web-Server-Wordpress/blob/main/img/wordpress/Wordpress%201.png)
+***
+## Repository
+1. Local Repository
+2. Cloud Repository
+***
 
-Bagi yang belum mempunyai iso dan juga virtualbox bisa di dapatkan disini :
-- https://www.virtualbox.org/wiki/Downloads
-- https://tecadmin.net/download-centos-7/
-- https://www.centos.org/download/
+## Bahan dan Alat:
+1. File Iso Centos 7, 
+2. Jaringan Internet.
+3. SSH Server.
+4. Apache 2.4.
+5. PHP 7.4 / diatasnya.
+6. MySQL, MariaDB.
+7. Wordpress.
+***
 
-## Alur installasi
-- Membuat VM server centos dengan virtualbox
+## Panduan Instalasi
+***
 
-<code></code>
+## Progress Update
+(pada tanggal 30 November server di reset dari awal dikarenakan terdapat beberapa service yang terhapus dan tidak dapat di install kembali juga penyusunan beberapa file yang tidak rapih.)
+***
 
-- Installasi Apache 
-
-<code></code>
-
-- Installasi 
-
-<code></code>
-
-- Install owncloud dengan docker-compose
-
-<code></code>
